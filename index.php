@@ -9,5 +9,8 @@
 	<?php
 	echo "Hello World";
 	?>
+	<button>
+	<link rel="stylesheet" type="text/css" href="./hello.php">
+	</button>
 </body>
 </html>
