@@ -10,7 +10,7 @@
 	echo "Hello World";
 	?>
 	<button name="Submit">Submit
-	<link rel="stylesheet" type="text/css" href="./hello.php">
+	<link rel="stylesheet" type="text/css" href="hello.php">
 	</button>
 </body>
 </html>
