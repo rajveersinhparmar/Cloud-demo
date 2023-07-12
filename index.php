@@ -10,8 +10,7 @@
 	echo "Hello World";
 	?>
 <div>
-	<a>Hello
-	<link rel="stylesheet" type="text/css" href="hello.php">
+	<a href="hello.php">Hello
 	</a>
 </div>
 </body>
