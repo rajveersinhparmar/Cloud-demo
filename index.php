@@ -1,4 +1,4 @@
-o<<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -9,8 +9,10 @@ o<<!DOCTYPE html>
 	<?php
 	echo "Hello World";
 	?>
-	<button name="Submit">Hello
+<div>
+	<a>Hello
 	<link rel="stylesheet" type="text/css" href="hello.php">
-	</button>
+	</a>
+</div>
 </body>
 </html>
