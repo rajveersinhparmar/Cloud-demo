@@ -8,7 +8,7 @@
 <body>	
 	<?php
 
-	q=$_REQUEST['a']
+	q=$_REQUEST['a'];
 	echo "q";
 	?>
 	<button>
